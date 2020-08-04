@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/rj54thpsb5e7a3uq?svg=true)](https://ci.appveyor.com/project/MKSInc/ajs-hw-11-symbols-iterators-generators-2-symbols-a)
+
 # 11. Домашнее задание к лекции «Символы, итераторы, генераторы»
 
 **Важно**: каждая задача выполняется в виде отдельного проекта с собственным GitHub репозиторием.
